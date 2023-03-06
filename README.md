@@ -1,2 +1,2 @@
 # advance-registration
-advance registration and authorization
+advance registration and authorization!
